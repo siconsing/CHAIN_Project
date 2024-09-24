@@ -3,7 +3,7 @@
 # CHAIN
 
 > Spring BootとSpring MVCパターンをベースにSpring Securityを活用して施作したグループウェアプロジェクトCHAINです。<br>
-> 👉 Click [here](https://docs.yi.or.kr:8091/)
+> 👉 Click [here](http://docs.yi.or.kr:8091/)
 
 ### ✔️ 開発動機及び概要
 - 様々な業務で使用できるように流動的な業務ツールを制作しました。
